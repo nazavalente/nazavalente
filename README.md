@@ -73,7 +73,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="left">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nazavalente&theme=darkhub&no-frame=true&row=1&column=7" alt="nazavalente's GitHub Trophies"/>
+<img src="./trophy.svg" alt="nazavalente's GitHub Trophies"/>
 </p>
 
 ---
