@@ -54,10 +54,26 @@
 
 ---
 
+### 📌 Featured Repositories
+
+<p align="left">
+<a href="https://github.com/nazavalente/BIGDATA_AI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=BIGDATA_AI&theme=dark" alt="BIGDATA_AI"/></a>
+<a href="https://github.com/nazavalente/AIPROJECT"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=AIPROJECT&theme=dark" alt="AIPROJECT"/></a>
+</p>
+<p align="left">
+<a href="https://github.com/nazavalente/investment-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=investment-portfolio&theme=dark" alt="investment-portfolio"/></a>
+<a href="https://github.com/nazavalente/Finance_tracker_APP"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=Finance_tracker_APP&theme=dark" alt="Finance_tracker_APP"/></a>
+</p>
+<p align="left">
+<a href="https://github.com/nazavalente/nazario-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=nazario-portfolio&theme=dark" alt="nazario-portfolio"/></a>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=nazavalente&theme=darkhub&no-frame=true&row=1&column=7" alt="nazavalente's GitHub Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nazavalente&theme=darkhub&no-frame=true&row=1&column=7" alt="nazavalente's GitHub Trophies"/>
 </p>
 
 ---
