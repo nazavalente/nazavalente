@@ -56,8 +56,10 @@
 
 ### 📊 GitHub Stats
 
-[![nazavalente's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazavalente&show_icons=true&theme=dark)](https://github.com/nazavalente)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazavalente&layout=compact&theme=dark)](https://github.com/nazavalente)
+<p align="left">
+<img src="https://github-stats-extended.vercel.app/api?username=nazavalente&show_icons=true&theme=dark" alt="nazavalente's GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nazavalente&layout=compact&theme=dark" alt="Top Langs" height="165"/>
+</p>
 
 ---
 
