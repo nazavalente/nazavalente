@@ -54,6 +54,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=nazavalente&theme=darkhub&no-frame=true&row=1&column=7" alt="nazavalente's GitHub Trophies"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
