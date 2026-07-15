@@ -2,9 +2,11 @@
 
 ### 💻 Backend Developer | ML/Forecasting Enthusiast | Final-Year CS Student @ Telkom University
 
-[![Profile views](https://komarev.com/ghpvc/?username=nazavalente&label=Profile%20Views&color=brightgreen&style=flat)](https://github.com/nazavalente)
-[![GitHub followers](https://img.shields.io/github/followers/nazavalente?label=Followers&style=flat&color=0e75b6)](https://github.com/nazavalente?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/nazavalente?affiliations=OWNER&label=Stars&style=flat&color=yellow)](https://github.com/nazavalente?tab=repositories)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=nazavalente&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" height="20"/>
+<img src="https://img.shields.io/github/followers/nazavalente?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" height="20"/>
+<img src="https://img.shields.io/github/stars/nazavalente?affiliations=OWNER&label=Stars&style=flat&color=yellow" alt="GitHub Stars" height="20"/>
+</p>
 
 ---
 
@@ -21,22 +23,26 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazario-valente/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naza_valente/)
+<p align="left">
+<a href="https://www.linkedin.com/in/nazario-valente/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+<a href="https://www.instagram.com/naza_valente/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="20"/></a>
+</p>
 
 ---
 
 ### ⚙️ Languages & Tools
 
-[![go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![postgresql](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org)
-[![dart](https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg)](https://dart.dev)
-[![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com)
-[![docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com)
-[![jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg)](https://jupyter.org)
-[![postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg)](https://www.postman.com)
+<p align="left">
+<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="32" height="32"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32"/></a>
+<a href="https://dart.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32"/></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/></a>
+<a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="32" height="32"/></a>
+<a href="https://jupyter.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="32" height="32"/></a>
+<a href="https://www.postman.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="32" height="32"/></a>
+</p>
 
 ---
 
