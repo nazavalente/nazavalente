@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Nazario%20Jose%20Valente%20da%20Cruz&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20ML%20%26%20Forecasting%20Enthusiast&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Nazario Jose Valente da Cruz — Backend Developer | ML & Forecasting Enthusiast" />
-  <p><b>Final-Year CS Student @ Telkom University, Bandung</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=120&section=header" width="100%" alt="" />
+  <h1>Nazario Jose Valente da Cruz</h1>
+  <p><b>Backend Developer &nbsp;|&nbsp; ML &amp; Forecasting Enthusiast</b><br />Final-Year CS Student @ Telkom University, Bandung</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=nazavalente&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile views" />
     <a href="https://github.com/nazavalente?tab=followers"><img src="https://img.shields.io/github/followers/nazavalente?label=Followers&style=flat-square&color=8957e5&logo=github" alt="GitHub followers" /></a>
     <a href="https://github.com/nazavalente?tab=repositories"><img src="https://img.shields.io/github/stars/nazavalente?affiliations=OWNER&label=Stars&style=flat-square&color=e3b341&logo=github" alt="GitHub stars" /></a>
   </p>
   <p>
-    <a href="#-about-me"><img src="https://img.shields.io/badge/About-161b22?style=for-the-badge" alt="About" /></a>
-    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-161b22?style=for-the-badge" alt="Tech Stack" /></a>
-    <a href="#-current-focus"><img src="https://img.shields.io/badge/Focus-161b22?style=for-the-badge" alt="Current Focus" /></a>
-    <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-161b22?style=for-the-badge" alt="Featured Projects" /></a>
-    <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-161b22?style=for-the-badge" alt="GitHub Stats" /></a>
-    <a href="#-contact"><img src="https://img.shields.io/badge/Contact-1f6feb?style=for-the-badge" alt="Contact" /></a>
+    <a href="#-about-me"><b>About</b></a> &nbsp;·&nbsp;
+    <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;·&nbsp;
+    <a href="#-current-focus"><b>Focus</b></a> &nbsp;·&nbsp;
+    <a href="#-featured-projects"><b>Projects</b></a> &nbsp;·&nbsp;
+    <a href="#-github-stats"><b>Stats</b></a> &nbsp;·&nbsp;
+    <a href="#-contact"><b>Contact</b></a>
   </p>
 </div>
 
@@ -161,10 +162,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github.com/nazavalente/nazavalente/raw/main/trophy.svg" alt="nazavalente's GitHub Trophies" width="100%" />
-</div>
 
 ## 📫 Contact
 
