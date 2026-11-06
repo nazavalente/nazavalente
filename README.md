@@ -145,7 +145,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/nazavalente/nazario-portfolio"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=nazario-portfolio&theme=tokyonight&hide_border=true" width="50%" alt="nazario-portfolio" /></a>
+      <a href="https://github.com/nazavalente/nazavalente.github.io"><img src="https://github-stats-extended.vercel.app/api/pin/?username=nazavalente&repo=nazavalente.github.io&theme=tokyonight&hide_border=true" width="50%" alt="nazavalente.github.io" /></a>
     </td>
   </tr>
 </table>
